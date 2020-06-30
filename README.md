@@ -7,6 +7,7 @@ This article is published online with Open Access by IOS Press and distributed u
 of the Creative Commons Attribution Non-Commercial License 4.0 (CC BY-NC 4.0).
 doi:10.3233/SHTI200339
 
+https://pubmed.ncbi.nlm.nih.gov/32570558/
 ## Abstract
 
 Abstract. In 2017, French institutions reformed their data access policy regarding
